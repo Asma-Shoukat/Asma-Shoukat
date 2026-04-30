@@ -61,11 +61,11 @@ I am particularly passionate about applying AI to create impactful and scalable 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.shion.dev/api?username=Asma-Shoukat&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true)
+![Stats](https://github-readme-stats.shion.dev/api?username=Asma-Shoukat&theme=white&hide_border=false&include_all_commits=false&count_private=true)
 
-![Streak](https://streak-stats.demolab.com/?user=Asma-Shoukat&theme=shadow_red&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=Asma-Shoukat&theme=white&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Asma-Shoukat&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Asma-Shoukat&theme=white&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
