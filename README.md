@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am an aspiring AI engineer with a strong interest in Artificial Intelligence and Machine Learning. Currently pursuing my bachelor's degree in AI, I am building a solid foundation in programming, data structures, and algorithmic problem-solving. I enjoy exploring how intelligent systems can be designed to solve real-world problems efficiently.
+I am an aspiring AI engineer with a strong interest in Artificial Intelligence and Machine Learning. Currently pursuing my bachelor's degree in AI, I am building a solid foundation in programming, data structures, and algorithmic problem-solving. Passinate about exploring how intelligent systems can be designed to solve real-world problems efficiently.
 
 My areas of interest include machine learning, data analysis, and software development. I am continuously learning and working on projects that enhance my practical understanding of AI concepts — including model development, data handling, and system design.
 
