@@ -2,7 +2,7 @@
 
 # Asma Shoukat
 
-### Aspiring AI Engineer · Machine Learning Enthusiast 
+### Aspiring AI Engineer | Machine Learning Enthusiast 
 
 </div>
 
