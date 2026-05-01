@@ -2,7 +2,7 @@
 
 # Asma Shoukat
 
-### Aspiring AI Engineer · Machine Learning Enthusiast · Builder
+### Aspiring AI Engineer · Machine Learning Enthusiast 
 
 </div>
 
@@ -49,7 +49,6 @@ I am particularly passionate about applying AI to create impactful and scalable 
 
 **Deployment & Tools**
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -69,10 +68,4 @@ I am particularly passionate about applying AI to create impactful and scalable 
 
 </div>
 
----
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Asma-Shoukat&icon=9&color=4)](https://visitcount.itsvg.in)
-
-</div>
