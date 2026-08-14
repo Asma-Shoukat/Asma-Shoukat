@@ -1,66 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=ASMA%20SHOUKAT&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=object%20detected:%20AI%20%2F%20ML%20engineer&descAlignY=58&descSize=16" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=ASMA%20SHOUKAT&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=16" alt="header banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%2F+ML+Engineer;Specializing+in+Computer+Vision;Building+Retrieval-Augmented+Generation+Systems;Aiming+for+high-impact%2C+production-grade+AI" alt="Typing SVG" />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-```
-[SYSTEM BOOT] initializing profile.exe ...
-[OK] loading model weights ......... asma_shoukat_v3.pt
-[OK] mounting dataset ............. skills/, projects/, curiosity/
-[OK] device ........................ cuda:0 (running on caffeine)
-[READY] inference started >>
-```
-
-</div>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+predicting...+AI+%2F+ML+student;%3E+specializing...+Computer+Vision;%3E+fine-tuning...+RAG+pipelines;%3E+confidence%3A+0.97" alt="Typing SVG" />
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
-## `class="detection-log"` — currently
+## About Me
 
-<table width="100%">
-<tr>
-<td width="70%">
+I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases. My goal is to understand how intelligent systems are actually designed and deployed — not just how they perform in a notebook.
 
-```yaml
-status: training
-focus:
-  - Computer Vision      # bounding boxes, feature maps, real pipelines
-  - Retrieval-Augmented Generation
-learning:
-  - LangChain / FAISS / HuggingFace
-base_skills:
-  - C++ / SQL foundations, not just notebooks
-mindset: >
-  I'd rather sit with a broken model at 2am
-  than ship something I don't understand.
-```
-
-</td>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/person-0.99-8A2BE2?style=flat-square&labelColor=000000" /><br/>
-<img src="https://img.shields.io/badge/model-0.97-00E5FF?style=flat-square&labelColor=000000" /><br/>
-<img src="https://img.shields.io/badge/bug-0.94-FF00E5?style=flat-square&labelColor=000000" /><br/>
-<img src="https://img.shields.io/badge/coffee-1.00-8A2BE2?style=flat-square&labelColor=000000" />
-
-</td>
-</tr>
-</table>
+- 🔭 Currently building projects in **Computer Vision** and **Retrieval-Augmented Generation**
+- 🌱 Deepening my skills in **LLM tooling** — LangChain, FAISS, and Hugging Face
+- 🎯 Working toward roles where I can apply AI to real, production-level problems
+- 💬 Open to discussing PyTorch, OpenCV, or RAG pipeline design
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" /></div>
 
-## `class="stack.detect()"`
+## Technical Skills
 
 <div align="center">
 
-**// languages**
+**Languages**
 <br/>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E5FF)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
@@ -70,7 +33,7 @@ mindset: >
 
 <br/>
 
-**// vision & learning**
+**Machine Learning & Computer Vision**
 <br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF00E5)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF00E5)
@@ -80,7 +43,7 @@ mindset: >
 
 <br/>
 
-**// retrieval & language**
+**RAG & NLP**
 <br/>
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=8A2BE2)
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=8A2BE2)
@@ -88,7 +51,7 @@ mindset: >
 
 <br/>
 
-**// tools & data**
+**Tools & Data**
 <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00E5FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00E5FF)
@@ -101,7 +64,7 @@ mindset: >
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:FF00E5&height=2&width=1000" /></div>
 
-## `class="metrics.eval()"`
+## GitHub Overview
 
 <div align="center">
 
@@ -124,15 +87,11 @@ mindset: >
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
-## `class="contact.send()"`
+## Let's Connect
 
 <div align="center">
 
-```
->> transmitting handshake request...
->> preferred channels: LinkedIn, GitHub, Email
->> response_time: usually < 24h
-```
+I'm always glad to connect with others working in AI, Computer Vision, or RAG — feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/asma-shoukat)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00E5)](https://github.com/Asma-Shoukat)
