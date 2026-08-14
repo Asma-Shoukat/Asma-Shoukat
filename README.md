@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=ASMA%20SHOUKAT&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=16" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%2F+ML+Engineer;Specializing+in+Computer+Vision;Building+Retrieval-Augmented+Generation+Systems;Aiming+for+high-impact%2C+production-grade+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B;Aspiring+AI+%2F+ML+Engineer;Specializing+in+Computer+Vision;Building+Retrieval-Augmented+Generation+Systems;Aiming+for+high-impact%2C+production-grade+AI" alt="Typing SVG" />
 
 </div>
 
@@ -10,12 +10,7 @@
 
 ## About Me
 
-I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases. My goal is to understand how intelligent systems are actually designed and deployed — not just how they perform in a notebook.
-
-- 🔭 Currently building projects in **Computer Vision** and **Retrieval-Augmented Generation**
-- 🌱 Deepening my skills in **LLM tooling** — LangChain, FAISS, and Hugging Face
-- 🎯 Working toward roles where I can apply AI to real, production-level problems
-- 💬 Open to discussing PyTorch, OpenCV, or RAG pipeline design
+I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases.I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML  and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" /></div>
 
@@ -73,7 +68,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asma-Shoukat&hide_border=true&background=0D0D0D&ring=FF00E5&fire=00E5FF&currStreakLabel=00E5FF&sideNums=8A2BE2&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Asma-Shoukat&hide_border=true&background=0D0D0D&ring=FF00E5&fire=00E5FF&currStreakLabel=00E5FF&sideNums=8A2BE2&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -90,8 +85,6 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 ## Let's Connect
 
 <div align="center">
-
-I'm always glad to connect with others working in AI, Computer Vision, or RAG — feel free to reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/asma-shoukat)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00E5)](https://github.com/Asma-Shoukat)
