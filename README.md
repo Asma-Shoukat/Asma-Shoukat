@@ -1,130 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=Hi%2C%20I'm%20Asma%20Shoukat%20%F0%9F%91%8B&fontSize=38&fontColor=00E5FF&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=16" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=3D0E63&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%2F+ML+Engineer;Specializing+in+Computer+Vision;Building+Retrieval-Augmented+Generation+Systems;Aiming+for+high-impact%2C+production-grade+AI" alt="Typing SVG" />
 
-<h3>🧠 Computer Vision &nbsp;•&nbsp;  🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
-
-<h3><b>Learn, build, improve — one project at a time.</b></h3>
+<sub><i>Learn, build, improve — one project at a time.</i></sub>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" />
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
-## 👩‍💻 About Me
+## About Me
 
-I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases.
+I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases. I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
 
-I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML and learning how real-world intelligent systems are designed and deployed.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" /></div>
 
-Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" />
-</div>
-
-## 🧠 Technical Skills
+## Technical Skills
 
 <div align="center">
 
-### 💻 Languages
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00E5FF)
 
 <br/>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2936?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+**Machine Learning & Computer Vision**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF00E5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF00E5)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FF00E5)
+![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=onnx&logoColor=FF00E5)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF00E5)
 
 <br/>
 
-### 🤖 AI & Machine Learning
+**RAG & NLP**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=8A2BE2)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=8A2BE2)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=8A2BE2)
 
 <br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F89939?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge\&logo=onnx\&logoColor=white)
-
-<br/>
-
-### 🔍 RAG & NLP
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge\&logo=langchain\&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge\&logo=meta\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-
-<br/>
-
-### 🛠️ Developer Tools & Data
-
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
-![vcpkg](https://img.shields.io/badge/vcpkg-6A3DAA?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:FF00E5&height=2&width=1000" />
-</div>
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Asma-Shoukat&hide_border=true&background=0D0D0D&ring=FF00E5&fire=00E5FF&currStreakLabel=00E5FF&sideNums=8A2BE2&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="Contribution Activity Graph" />
-
-<br/><br/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" />
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=3D0E63&center=true&vCenter=true&width=500&height=45&lines=Hey+there%2C+let's+connect+%F0%9F%91%8B" alt="Let's Connect typing line" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/asma-shoukat-090346407/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Asma-Shoukat">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmashoukat.work@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling" alt="footer banner" />
-
-</div>
+**Tools & Data**
