@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Asma+Shoukat+%F0%9F%91%8B;Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0072ff&height=180&section=header&text=Hi,%20I'm%20Asma%20Shoukat&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header banner" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asma-Shoukat&color=00C7B7&style=flat-square&label=Profile+Views)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asmashoukat2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Asma-Shoukat)
+![Profile Views](https://komarev.com/ghpvc/?username=Asma-Shoukat&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-shoukat-090346407/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmashoukat2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asma-Shoukat)
 
 </div>
 
@@ -14,15 +15,7 @@
 
 ### 👩‍💻 About Me
 
-```yaml
-role: Aspiring AI Engineer
-degree: Bachelor's in Artificial Intelligence
-focus: Machine Learning · Intelligent Systems · Scalable Software
-strengths: Problem-Solving · C++ · Databases · AI-Driven Development
-mindset: Continuous learning through hands-on, real-world projects
-```
-
-I'm an AI/ML enthusiast who enjoys turning ideas into working systems — from data pipelines to intelligent applications. Currently sharpening my skills in machine learning and software engineering while building practical projects that solve real problems.
+Aspiring 3rd year AI student with hands-on exposure to Machine Learning, Computer Vision, and RAG systems. I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
 
 ---
 
@@ -67,11 +60,13 @@ I'm an AI/ML enthusiast who enjoys turning ideas into working systems — from d
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.shion.dev/api?username=Asma-Shoukat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Asma-Shoukat&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Asma-Shoukat&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
 
 <br/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Asma-Shoukat&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" />
+### 🔥 Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=Asma-Shoukat&theme=tokyonight&hide_border=true&fire=00C7B7&ring=00C7B7" alt="🔥 GitHub Streak" />
 
 </div>
 
@@ -81,11 +76,14 @@ I'm an AI/ML enthusiast who enjoys turning ideas into working systems — from d
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-shoukat-090346407/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmashoukat2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asma-Shoukat)
 
 <br/>
 
 *"Learning by building — one project at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00C7B7&height=100&section=footer" alt="footer banner" />
 
 </div>
