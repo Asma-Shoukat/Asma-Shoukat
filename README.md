@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=3D0E63&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
 
-<h3>🧠 Artificial intelligence &nbsp;•&nbsp;  🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
+<h3>🧠 Computer Vision &nbsp;•&nbsp; 🤖 AI-Inspired Agents &nbsp;•&nbsp; 🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
 
-<h3><b>Learn, build, improve </b></h3>
+<h3><b>Learn, build, improve — one project at a time.</b></h3>
 
 </div>
 
@@ -45,7 +45,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 ### RAG & NLP
 <br/>
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=8A2BE2)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=8A2BE2)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=8A2BE2)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=8A2BE2)
 
 <br/>
@@ -77,7 +77,6 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
@@ -86,7 +85,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=3D0E63&center=true&vCenter=true&width=500&height=45&lines=Hey+there%2C+let's+connect+%F0%9F%91%8B" alt="Let's Connect typing line" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=500&height=45&lines=Hey+there%2C+let's+connect+%F0%9F%91%8B" alt="Let's Connect typing line" />
 
 <br/><br/>
 
