@@ -4,9 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=3D0E63&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
 
-<h3>🧠 Computer Vision &nbsp;•&nbsp; 🤖 AI-Inspired Agents &nbsp;•&nbsp; 🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
+<h3>🧠 Aspiring AI Engineer &nbsp;•&nbsp; ⚙️ Machine Learning  Enthusiast</h3>
 
-<h3><b>Learn, build, improve </b></h3>
 
 </div>
 
@@ -98,7 +97,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmashoukat.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D0D0D" /></a>
 
 <br/><br/>
-
+<h4><b>Learn, build, improve </b></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling" alt="footer banner" />
 
 </div>
