@@ -1,127 +1,145 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0072ff&height=140&section=header" alt="header banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00C7B7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B;AI+%2F+ML+%7C+Computer+Vision+%7C+RAG;Turning+data+into+decisions+%F0%9F%9A%80" alt="Typing SVG" />
-
-<sub><i>Learn, build, improve — one project at a time.</i></sub>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asma-shoukat)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asma-Shoukat)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asma.shoukat@example.com)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C7B7,100:0072ff&height=3&width=1000" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=ASMA%20SHOUKAT&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=object%20detected:%20AI%20%2F%20ML%20engineer&descAlignY=58&descSize=16" alt="header banner" />
 
 </div>
-<br/>
-
-## 🧠 ABOUT ME
-
-Aspiring AI student building hands-on across **Machine Learning, Computer Vision, and RAG systems** — with a working base in C++ and databases. Every project is a step in learning how real, deployed intelligent systems are actually designed, not just how they look in a notebook.
-
-- 🔭 &nbsp;Currently building projects in **Computer Vision** and **Retrieval-Augmented Generation**
-- 🌱 &nbsp;Currently deepening my skills in **LLM tooling** — LangChain, FAISS, HuggingFace
-- 💬 &nbsp;Ask me about **PyTorch, OpenCV, or RAG pipeline design**
-- ⚡ &nbsp;Fun fact: I'd rather debug a model at 2am than leave a bug unsolved
 
 <br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00C7B7&height=3&width=1000" /></div>
-<br/>
-
-## 🛠️ TECH STACK
 
 <div align="center">
 
-<table>
-<tr><td valign="top" width="20%"><b>Languages</b></td><td>
+```
+[SYSTEM BOOT] initializing profile.exe ...
+[OK] loading model weights ......... asma_shoukat_v3.pt
+[OK] mounting dataset ............. skills/, projects/, curiosity/
+[OK] device ........................ cuda:0 (running on caffeine)
+[READY] inference started >>
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+</div>
 
-</td></tr>
-<tr><td valign="top"><b>AI / ML</b></td><td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+predicting...+AI+%2F+ML+student;%3E+specializing...+Computer+Vision;%3E+fine-tuning...+RAG+pipelines;%3E+confidence%3A+0.97" alt="Typing SVG" />
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
-</td></tr>
-<tr><td valign="top"><b>RAG & NLP</b></td><td>
+## `class="detection-log"` — currently
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<table width="100%">
+<tr>
+<td width="70%">
 
-</td></tr>
-<tr><td valign="top"><b>Data</b></td><td>
+```yaml
+status: training
+focus:
+  - Computer Vision      # bounding boxes, feature maps, real pipelines
+  - Retrieval-Augmented Generation
+learning:
+  - LangChain / FAISS / HuggingFace
+base_skills:
+  - C++ / SQL foundations, not just notebooks
+mindset: >
+  I'd rather sit with a broken model at 2am
+  than ship something I don't understand.
+```
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</td>
+<td width="30%" align="center">
 
-</td></tr>
-<tr><td valign="top"><b>Tools</b></td><td>
+<img src="https://img.shields.io/badge/person-0.99-8A2BE2?style=flat-square&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/model-0.97-00E5FF?style=flat-square&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/bug-0.94-FF00E5?style=flat-square&labelColor=000000" /><br/>
+<img src="https://img.shields.io/badge/coffee-1.00-8A2BE2?style=flat-square&labelColor=000000" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</td></tr>
+</td>
+</tr>
 </table>
 
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" /></div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C7B7,100:0072ff&height=3&width=1000" /></div>
-<br/>
-
-## 📊 GITHUB ACTIVITY
+## `class="stack.detect()"`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asma-Shoukat&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C7B7&icon_color=0072ff&text_color=8b949e&cache_seconds=86400" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Shoukat&layout=compact&hide_border=true&bg_color=00000000&title_color=00C7B7&text_color=8b949e&cache_seconds=86400" alt="Top Languages" />
+**// languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E5FF)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00E5FF)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00E5FF)
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=Asma-Shoukat&hide_border=true&background=00000000&ring=00C7B7&fire=0072ff&currStreakLabel=00C7B7&sideNums=0072ff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+**// vision & learning**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF00E5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF00E5)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FF00E5)
+![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=onnx&logoColor=FF00E5)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=FF00E5)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=00000000&color=0072ff&line=00C7B7&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="Contribution Activity Graph" />
+**// retrieval & language**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=8A2BE2)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=8A2BE2)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=8A2BE2)
+
+<br/>
+
+**// tools & data**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00E5FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00E5FF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00E5FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00E5FF)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00E5FF)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00E5FF)
 
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072ff,100:00C7B7&height=3&width=1000" /></div>
-<br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:FF00E5&height=2&width=1000" /></div>
 
-## 🤝 LET'S CONNECT
+## `class="metrics.eval()"`
 
 <div align="center">
 
-Always up for talking AI, CV, or RAG — reach out below 👇
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asma-shoukat)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asma-Shoukat)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asma.shoukat@example.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Asma-Shoukat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00E5FF&icon_color=FF00E5&text_color=c9d1d9&ring_color=8A2BE2&cache_seconds=86400" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Shoukat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00E5FF&text_color=c9d1d9&cache_seconds=86400" height="165" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00C7B7&height=90&section=footer" alt="footer banner" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asma-Shoukat&hide_border=true&background=0D0D0D&ring=FF00E5&fire=00E5FF&currStreakLabel=00E5FF&sideNums=8A2BE2&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Asma-Shoukat&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="Contribution Activity Graph" />
+
+</div>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
+
+## `class="contact.send()"`
+
+<div align="center">
+
+```
+>> transmitting handshake request...
+>> preferred channels: LinkedIn, GitHub, Email
+>> response_time: usually < 24h
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/asma-shoukat)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00E5)](https://github.com/Asma-Shoukat)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:asma.shoukat@example.com)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=100&section=footer" alt="footer banner" />
 
 </div>
