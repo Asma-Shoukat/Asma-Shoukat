@@ -6,7 +6,7 @@
 
 <h3>🧠 Computer Vision &nbsp;•&nbsp; 🤖 AI-Inspired Agents &nbsp;•&nbsp; 🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
 
-<h3><b>Learn, build, improve — one project at a time.</b></h3>
+<h3><b>Learn, build, improve </b></h3>
 
 </div>
 
