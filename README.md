@@ -4,21 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=3D0E63&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
 
-<h3>🧠 Artificial Intelligence &nbsp;•&nbsp;  🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
+<h3>🧠 Computer Vision &nbsp;•&nbsp; 🤖 AI-Inspired Agents &nbsp;•&nbsp; 🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
 
-<sub><i>Learn, build, improve </i></sub>
+<h3><b>Learn, build, improve — one project at a time.</b></h3>
 
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
-## About Me
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=70&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
 
-I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation**, with a working foundation in C++ and databases. I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
+I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases. I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" /></div>
 
-## Technical Skills
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8A2BE2&height=70&section=header&text=Technical%20Skills&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:FF00E5&height=2&width=1000" /></div>
 
-## GitHub Overview
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00E5FF&height=70&section=header&text=GitHub%20Overview&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
 
 <div align="center">
 
@@ -83,11 +83,11 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF00E5&height=70&section=header&text=Let's%20Connect&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=400&height=45&lines=Let's+Connect" alt="Let's Connect heading" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Open+to+internships+%26+research+collaborations;Let's+build+something+intelligent+together+%F0%9F%9A%80" alt="Connect Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=3D0E63&center=true&vCenter=true&width=500&height=45&lines=Hey+there%2C+let's+connect+%F0%9F%91%8B" alt="Let's Connect typing line" />
 
 <br/><br/>
 
