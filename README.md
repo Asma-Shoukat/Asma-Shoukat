@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=ASMA%20SHOUKAT&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=16" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=AI%20Passionate&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=16" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B;Aspiring+AI+%2F+ML+Engineer;Specializing+in+Computer+Vision;Building+Retrieval-Augmented+Generation+Systems;Aiming+for+high-impact%2C+production-grade+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing SVG" />
+
+<sub><i>Learn, build, improve — one project at a time.</i></sub>
 
 </div>
 
@@ -10,7 +12,7 @@
 
 ## About Me
 
-I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases.I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML  and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
+I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases. I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" /></div>
 
@@ -63,16 +65,9 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asma-Shoukat&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=00E5FF&icon_color=FF00E5&text_color=c9d1d9&ring_color=8A2BE2&cache_seconds=86400" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Shoukat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00E5FF&text_color=c9d1d9&cache_seconds=86400" height="165" alt="Top Languages" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Asma-Shoukat&hide_border=true&background=0D0D0D&ring=FF00E5&fire=00E5FF&currStreakLabel=00E5FF&sideNums=8A2BE2&currStreakNum=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asma-Shoukat&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 <br/><br/>
 
