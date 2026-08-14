@@ -2,13 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0072ff&height=140&section=header" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00C7B7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B;AI+%2F+ML+%7C+Computer+Vision+%7C+RAG" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=00C7B7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/>
 
-<sub><i>Learn, build, improve — one project at a time.</i></sub>
+<sub><i>Learn, build, improve.</i></sub>
 
-<br/><br/>
+<br/>
+
+---
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asma-shoukat)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asma-Shoukat)
@@ -20,7 +24,7 @@
 
 ## THE IDEA
 
-Aspiring AI student building hands-on across **Machine Learning, Computer Vision, and RAG systems** — with a working base in C++ and databases. Every project below is a step in learning how real, deployed intelligent systems are actually designed, not just how they look in a notebook.
+Aspiring AI student building hands-on across **Machine Learning, Computer Vision, and RAG systems** — with a working base in C++ and databases.I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML  and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
 
 <br/>
 
@@ -91,7 +95,7 @@ Aspiring AI student building hands-on across **Machine Learning, Computer Vision
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asma-Shoukat&hide_border=true&background=00000000&ring=00C7B7&fire=0072ff&currStreakLabel=00C7B7&sideNums=0072ff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Asma-Shoukat&hide_border=true&background=00000000&ring=00C7B7&fire=0072ff&currStreakLabel=00C7B7&sideNums=0072ff&currStreakNum=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 
 <br/><br/>
 
