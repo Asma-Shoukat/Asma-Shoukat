@@ -4,25 +4,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=3D0E63&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
 
-<h3>🧠 Computer Vision &nbsp;•&nbsp; 🤖 AI-Inspired Agents &nbsp;•&nbsp; 🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
+<h3>🧠 Artificial intelligence &nbsp;•&nbsp;  🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
 
-<h3><b>Learn, build, improve — one project at a time.</b></h3>
+<h3><b>Learn, build, improve </b></h3>
 
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=70&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
+## About Me
 
 I'm an AI/ML student building hands-on experience across **Machine Learning, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with a working foundation in C++ and databases. I have experience working with C++ and databases, along with problem-solving using data-driven approaches through academic and personal projects. My focus is on gradually building practical skills in AI & ML and learning how real-world intelligent systems are designed and deployed. Passionate about exploring scalable AI solutions and improving my understanding through continuous practice, projects, and experimentation.
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00E5FF&height=2&width=1000" /></div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:8A2BE2&height=70&section=header&text=Technical%20Skills&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
+## Technical Skills
 
 <div align="center">
 
-**Languages**
+### Languages
 <br/>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00E5FF)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
@@ -32,7 +32,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/>
 
-**Machine Learning & Computer Vision**
+### Machine Learning & Computer Vision
 <br/>
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=FF00E5)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF00E5)
@@ -42,7 +42,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/>
 
-**RAG & NLP**
+### RAG & NLP
 <br/>
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=8A2BE2)
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=8A2BE2)
@@ -50,7 +50,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/>
 
-**Tools & Data**
+### Tools & Data
 <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00E5FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00E5FF)
@@ -63,7 +63,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:FF00E5&height=2&width=1000" /></div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00E5FF&height=70&section=header&text=GitHub%20Overview&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
+## GitHub Overview
 
 <div align="center">
 
@@ -77,13 +77,12 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-<!-- Snake animation removed -->
 
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF00E5&height=70&section=header&text=Let's%20Connect&fontSize=26&fontColor=ffffff&fontAlignY=55" /></div>
+## Let's Connect
 
 <div align="center">
 
