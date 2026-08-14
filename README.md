@@ -35,7 +35,7 @@ Aspiring 3rd year AI student with hands-on exposure to Machine Learning, Compute
 ![PyTorch](https://img.shields.io/badge/PyTorch-00C7B7?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0072ff?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-00C7B7?style=for-the-badge&logo=onnx&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0072ff?style=for-the-badge&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0072ff?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-00C7B7?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0072ff?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-00C7B7?style=for-the-badge&logo=numpy&logoColor=white)
@@ -49,7 +49,7 @@ Aspiring 3rd year AI student with hands-on exposure to Machine Learning, Compute
 **Data & Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-00C7B7?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0072ff?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0072ff?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-00C7B7?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Databases & Tools**
@@ -98,7 +98,7 @@ Aspiring 3rd year AI student with hands-on exposure to Machine Learning, Compute
 
 <br/>
 
-*"Learn, build, improve — one project at a time."*
+*"Learn, build, improve "*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00C7B7&height=100&section=footer" alt="footer banner" />
 
