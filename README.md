@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header&text=Hi%2C%20I'm%20Asma%20Shoukat%20%F0%9F%91%8B&fontSize=38&fontColor=00E5FF&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=16" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00E5FF,100:FF00E5&height=160&section=header" alt="header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Aspiring+AI+%2F+ML+Engineer;Specializing+in+Computer+Vision;Building+Retrieval-Augmented+Generation+Systems;Aiming+for+high-impact%2C+production-grade+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
 
-<sub><i>Learn, build, improve .</i></sub>
+<h3>🧠 Computer Vision &nbsp;•&nbsp; 🤖 AI-Inspired Agents &nbsp;•&nbsp; 🔍 RAG Systems &nbsp;•&nbsp; ⚙️ Machine Learning</h3>
+
+<sub><i>Learn, build, improve — one project at a time.</i></sub>
 
 </div>
 
@@ -73,6 +75,11 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="Contribution Activity Graph" />
 
+<br/><br/>
+
+<!-- Snake animation: eats through your contribution graph. Requires a one-time GitHub Action setup — see note below. -->
+<img src="https://raw.githubusercontent.com/Asma-Shoukat/Asma-Shoukat/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" />
+
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
@@ -81,15 +88,20 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <div align="center">
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](https://linkedin.com/in/asma-shoukat)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00E5)](https://github.com/Asma-Shoukat)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:asma.shoukat@example.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Open+to+internships+%26+research+collaborations;Let's+build+something+intelligent+together+%F0%9F%9A%80" alt="Connect Typing SVG" />
 
 <br/><br/>
 
+<a href="https://linkedin.com/in/asma-shoukat"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D0D0D" /></a>
+<a href="https://github.com/Asma-Shoukat"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00E5&labelColor=0D0D0D" /></a>
+<a href="mailto:asma.shoukat@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D0D0D" /></a>
 
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=100&section=footer" alt="footer banner" />
+![Profile Views](https://komarev.com/ghpvc/?username=Asma-Shoukat&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling" alt="footer banner" />
 
 </div>
