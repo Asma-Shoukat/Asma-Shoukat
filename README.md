@@ -97,7 +97,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmashoukat.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D0D0D" /></a>
 
 <br/><br/>
-<h4><b>Learn, build, improve </b></h4>
+<h4><b>Learn, Build, Evolve  </b></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling" alt="footer banner" />
 
 </div>
