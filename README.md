@@ -76,7 +76,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
 <br/><br/>
 
@@ -100,4 +100,4 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 <h4><b>Learn, Build, Evolve  </b></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling" alt="footer banner" />
 
-</div>
+</div> 
