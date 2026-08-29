@@ -75,10 +75,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-<!-- TEMP: shared instance below returns 402 (maintainer's Vercel quota exceeded).
-     Once you deploy your own instance, replace
-     "github-readme-activity-graph.vercel.app" with "YOUR-PROJECT-NAME.vercel.app" -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<img src="https://ghchart.rshah.org/00E5FF/Asma-Shoukat" alt="Asma Shoukat's GitHub Contribution Chart" />
 
 <br/><br/>
 
