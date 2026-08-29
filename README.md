@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1000&color=3D0E63&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Asma+Shoukat+%F0%9F%91%8B" alt="Typing name" />
 
-<h3>🧠 Aspiring AI Engineer &nbsp;•&nbsp; ⚙️ Machine Learning  Enthusiast</h3>
+<img src="https://img.icons8.com/fluency/48/handshake.png" alt="Handshake" width="30" height="30" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands" width="28" height="28" />
+<h3>🧠 Aspiring AI Engineer &nbsp;•&nbsp; ⚙️ Machine Learning  Enthusiast</h3>
 
 </div>
 
@@ -77,7 +77,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="32" height="32" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Shoukat&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00E5FF&text_color=c9d1d9" alt="Top Languages" />
 
 <br/><br/>
 
@@ -88,8 +88,6 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="26" height="26" />
 
 ## Let's Connect
 
@@ -104,7 +102,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asmashoukat.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2&labelColor=0D0D0D" /></a>
 
 <br/><br/>
-<h4><b>Learn, Build, Evolve <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="24" height="24" /></b></h4>
+<h4><b>Learn, Build, Evolve</b></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling" alt="footer banner" />
 
 </div>
