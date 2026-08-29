@@ -6,7 +6,6 @@
 
 <h3>🧠 Aspiring AI Engineer &nbsp;•&nbsp; ⚙️ Machine Learning  Enthusiast</h3>
 
-
 </div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:8A2BE2&height=2&width=1000" /></div>
@@ -76,7 +75,10 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+<!-- TEMP: shared instance below returns 402 (maintainer's Vercel quota exceeded).
+     Once you deploy your own instance, replace
+     "github-readme-activity-graph.vercel.app" with "YOUR-PROJECT-NAME.vercel.app" -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
 <br/><br/>
 
@@ -100,4 +102,4 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 <h4><b>Learn, Build, Evolve  </b></h4>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00E5FF,100:8A2BE2&height=120&section=footer&animation=twinkling" alt="footer banner" />
 
-</div> 
+</div>
