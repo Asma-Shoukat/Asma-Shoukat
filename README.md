@@ -75,7 +75,7 @@ I'm an AI/ML student building hands-on experience across **Machine Learning, Com
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&theme=github-compact&bg_color=0D0D0D&color=00E5FF&line=FF00E5&point=8A2BE2&area=true&hide_border=true" alt="Asma Shoukat's GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asma-Shoukat&theme=react-dark&hide_border=true&area=true&color=00E5FF&line=FF00E5&point=8A2BE2" alt="Asma Shoukat's GitHub Activity Graph" />
 
 <br/><br/>
 
